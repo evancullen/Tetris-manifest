@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: evancullen1/cicd-e2e:v1
+        image: evancullen1/cicd-e2e: v1
         ports:
         - containerPort: 3000   # Use port 3000
 
